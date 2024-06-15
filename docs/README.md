@@ -14,7 +14,7 @@ title: Safer Travel Utility (SaVy)
 ---
 
 ## Team
--  E/15/363, THILAKARATHNE E.R.R.I., [ireshe@outlook.com](mailto:ireshe@outlook.com)
+-  E/15/363, THILAKARATHNE E.R.R.I., [r.i.thilakarathne@eng.pdn.ac.lk](mailto:r.i.thilakarathne@eng.pdn.ac.lk)
 -  E/15/048, CHANDRASIRI S.A.G.L., [laksaragayal1996@gmail.com](mailto:laksaragayal1996@gmail.com)
 -  E/15/043, BHAGYA T.P.Y., [yasirubhagya@eng.pdn.ac.lk](mailto:yasirubhagya@eng.pdn.ac.lk)
 
